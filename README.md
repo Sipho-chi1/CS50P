@@ -1,6 +1,5 @@
 # CS50P
-
-##Problem Set 0
+## Problem Set 0
 -I didnt have a problem with this one due to the basics I have learnt them during bootcamp so it was all smooth sailing.
 
 ## Problem Set 1
